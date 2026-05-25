@@ -1,4 +1,4 @@
 # demo
 working first time with github
 <br>
-author - subedh kayastha
+author - subedh kayastha(legend)
